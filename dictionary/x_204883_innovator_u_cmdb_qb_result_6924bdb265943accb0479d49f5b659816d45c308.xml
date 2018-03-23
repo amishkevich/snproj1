@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_qb_result_base" label="Query Results" max_length="40" name="x_204883_innovator_u_cmdb_qb_result_6924bdb265943accb0479d49f5b659816d45c308" type="collection"/>
+</database>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Innovation Idea" section_id="aa803d92db745300c077d740cf96192a" sys_domain="global" table="x_204883_innovator_innovation_ideas" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 15:04:33</sys_created_on>
+            <sys_id>43ba8612dbb45300c077d740cf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Innovation Idea" display_value="Innovation Idea" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="Default view">aa803d92db745300c077d740cf96192a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 15:04:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phase</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 15:04:33</sys_created_on>
+            <sys_id>c3ba8612dbb45300c077d740cf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Innovation Idea" display_value="Innovation Idea" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="Default view">aa803d92db745300c077d740cf96192a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 15:04:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 15:04:33</sys_created_on>
+            <sys_id>47ba8612dbb45300c077d740cf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Innovation Idea" display_value="Innovation Idea" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="Default view">aa803d92db745300c077d740cf96192a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 15:04:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>problem_description</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 15:04:33</sys_created_on>
+            <sys_id>c7ba8612dbb45300c077d740cf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Innovation Idea" display_value="Innovation Idea" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="Default view">aa803d92db745300c077d740cf96192a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 15:04:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approach_to_solution</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 15:04:33</sys_created_on>
+            <sys_id>43bac612dbb45300c077d740cf961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Innovation Idea" display_value="Innovation Idea" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="Default view">aa803d92db745300c077d740cf96192a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 15:04:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>is_approved</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-22 02:05:03</sys_created_on>
+            <sys_id>a2052438db011300c077d740cf96195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Innovation Idea" display_value="Innovation Idea" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="Default view">aa803d92db745300c077d740cf96192a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-22 02:05:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Innovation Idea</caption>
+            <header>false</header>
+            <name>x_204883_innovator_innovation_ideas</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 13:10:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa803d92db745300c077d740cf96192a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Innovation Idea</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovator" source="x_204883_innovator">7276bc4adbb81300c077d740cf961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovator">7276bc4adbb81300c077d740cf961999</sys_scope>
+            <sys_update_name>sys_ui_section_aa803d92db745300c077d740cf96192a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 14:41:33</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

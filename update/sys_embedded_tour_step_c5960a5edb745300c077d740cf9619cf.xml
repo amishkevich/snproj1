@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_step">
+    <sys_embedded_tour_step action="INSERT_OR_UPDATE">
+        <action>false</action>
+        <action_event>next</action_event>
+        <action_target/>
+        <action_target_ref display_value="4606c61edb745300c077d740cf9619bb.1.xpath">7c96461edb745300c077d740cf9619be</action_target_ref>
+        <active>true</active>
+        <content><![CDATA[How much funding will be required for phase 1/seed implementation of the idea]]></content>
+        <guide display_value="Innovation Ideas Tour">4606c61edb745300c077d740cf9619bb</guide>
+        <implicit>false</implicit>
+        <link/>
+        <name>Step 1</name>
+        <options/>
+        <order>1</order>
+        <placement>top</placement>
+        <sys_class_name>sys_embedded_tour_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-14 14:46:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c5960a5edb745300c077d740cf9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Step 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Innovator" source="x_204883_innovator">7276bc4adbb81300c077d740cf961999</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovator">7276bc4adbb81300c077d740cf961999</sys_scope>
+        <sys_update_name>sys_embedded_tour_step_c5960a5edb745300c077d740cf9619cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-14 14:46:24</sys_updated_on>
+        <target/>
+        <target_ref display_value="4606c61edb745300c077d740cf9619bb.1.xpath">7c96461edb745300c077d740cf9619be</target_ref>
+        <ui_version>dynamic</ui_version>
+        <view/>
+        <window>x_204883_innovator_innovation_ideas.do</window>
+    </sys_embedded_tour_step>
+    <sys_translated_text action="delete_multiple" query="documentkey=c5960a5edb745300c077d740cf9619cf"/>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="display_order" label="Display_Order" language="en" table="x_204883_innovator_ideas_lifecycle_phases">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>display_order</element>
+            <help/>
+            <hint/>
+            <label>Display_Order</label>
+            <language>en</language>
+            <name>x_204883_innovator_ideas_lifecycle_phases</name>
+            <plural>Display_Orders</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 12:50:07</sys_created_on>
+            <sys_id>7dfb6112db745300c077d740cf961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Display_Order</sys_name>
+            <sys_package display_value="Innovator" source="x_204883_innovator">7276bc4adbb81300c077d740cf961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovator">7276bc4adbb81300c077d740cf961999</sys_scope>
+            <sys_update_name>sys_documentation_x_204883_innovator_ideas_lifecycle_phases_display_order_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 12:50:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

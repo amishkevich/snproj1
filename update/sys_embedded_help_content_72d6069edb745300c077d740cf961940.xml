@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<p>To add new idea proposal, click on the &#34;New&#34; button on top, which will take you to the entry form.</p>
+<p><span class="ph uicontrol">Pre-requisites:</span></p>
+<ol><li><span class="ph uicontrol">Need to know how many dedicated people it will take to implement your proposal for version 1</span></li><li><span class="ph uicontrol">Need to know how many $ is required to seed the implementation.</span></li></ol>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>x_204883_innovator_innovation_ideas_list-normal</name>
+        <page>x_204883_innovator_innovation_ideas_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-14 14:48:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>72d6069edb745300c077d740cf961940</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_204883_innovator_innovation_ideas_list-normal</sys_name>
+        <sys_package display_value="Innovator" source="x_204883_innovator">7276bc4adbb81300c077d740cf961999</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovator">7276bc4adbb81300c077d740cf961999</sys_scope>
+        <sys_update_name>sys_embedded_help_content_72d6069edb745300c077d740cf961940</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-14 14:50:16</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=72d6069edb745300c077d740cf961940"/>
+</record_update>

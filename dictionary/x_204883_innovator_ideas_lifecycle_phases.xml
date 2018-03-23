@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Ideas_Lifecycle_Phases" max_length="40" name="x_204883_innovator_ideas_lifecycle_phases" type="collection">
+        <element default="10" label="Display_Order" max_length="40" name="display_order" type="integer"/>
+        <element display="true" label="Phase_Name" mandatory="true" max_length="40" name="phase_name" type="string"/>
+        <index name="index">
+            <element name="phase_name"/>
+        </index>
+    </element>
+</database>

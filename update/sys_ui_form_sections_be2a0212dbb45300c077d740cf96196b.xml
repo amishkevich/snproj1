@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="be2a0212dbb45300c077d740cf96196b" sys_domain="global" table="x_204883_innovator_innovation_ideas" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 15:02:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe2a0212dbb45300c077d740cf96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_204883_innovator_innovation_ideas" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="b62a0212dbb45300c077d740cf961967">be2a0212dbb45300c077d740cf96196b</sys_ui_form>
+            <sys_ui_section caption="Innovation Idea" display_value="Innovation Idea" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="b62a0212dbb45300c077d740cf961967">3a2a0212dbb45300c077d740cf96196a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 15:02:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 15:02:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba2a0212dbb45300c077d740cf96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_204883_innovator_innovation_ideas" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="b62a0212dbb45300c077d740cf961967">be2a0212dbb45300c077d740cf96196b</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="b62a0212dbb45300c077d740cf961967">f22a0212dbb45300c077d740cf96196b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 15:02:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 15:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>409a4612dbb45300c077d740cf961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_204883_innovator_innovation_ideas" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="b62a0212dbb45300c077d740cf961967">be2a0212dbb45300c077d740cf96196b</sys_ui_form>
+            <sys_ui_section caption="Reviewer" display_value="Reviewer" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="b62a0212dbb45300c077d740cf961967">849a4612dbb45300c077d740cf961944</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 15:03:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_204883_innovator_innovation_ideas</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 15:02:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be2a0212dbb45300c077d740cf96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_204883_innovator_innovation_ideas</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovator" source="x_204883_innovator">7276bc4adbb81300c077d740cf961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovator">7276bc4adbb81300c077d740cf961999</sys_scope>
+            <sys_update_name>sys_ui_form_sections_be2a0212dbb45300c077d740cf96196b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 15:02:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reviewer View" name="Reviewer_View">b62a0212dbb45300c077d740cf961967</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

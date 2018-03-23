@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Reviewer" section_id="849a4612dbb45300c077d740cf961944" sys_domain="global" table="x_204883_innovator_innovation_ideas" version="3" view="Reviewer_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reviewer_comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 15:03:49</sys_created_on>
+            <sys_id>8c9a4612dbb45300c077d740cf96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reviewer" display_value="Reviewer" name="x_204883_innovator_innovation_ideas" sys_domain="global" view="b62a0212dbb45300c077d740cf961967">849a4612dbb45300c077d740cf961944</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 15:03:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Reviewer</caption>
+            <header>false</header>
+            <name>x_204883_innovator_innovation_ideas</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 15:03:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>849a4612dbb45300c077d740cf961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Reviewer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovator" source="x_204883_innovator">7276bc4adbb81300c077d740cf961999</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovator">7276bc4adbb81300c077d740cf961999</sys_scope>
+            <sys_update_name>sys_ui_section_849a4612dbb45300c077d740cf961944</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 15:03:48</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Reviewer View" name="Reviewer_View">b62a0212dbb45300c077d740cf961967</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
